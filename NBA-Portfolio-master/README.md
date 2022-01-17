@@ -17,7 +17,6 @@ NBA-Portfolio is an Angular Application which contains Porfolio of all the NBA's
 The project is based on __Angular framework (v9.0.5)__.
 
 
-NBA Portfolio is a project based on a template created by [Creative Tim](https://github.com/creativetimofficial/black-dashboard-angular).
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
